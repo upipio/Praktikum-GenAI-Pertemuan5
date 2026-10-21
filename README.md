@@ -1,4 +1,4 @@
-# Modul Praktikum Pertemuan 5: Working with Foundation Model (Part 1)
+# Modul Praktikum Pertemuan 5: Working with Foundation Model
 
 **Mata Kuliah:** Pemanfaatan AI Generative untuk Pengembangan Aplikasi  
 **Kode Mata Kuliah / SKS:** KK140114_22 / 4 SKS  
