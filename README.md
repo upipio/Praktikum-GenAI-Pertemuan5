@@ -40,7 +40,7 @@ Untuk memanggil *Foundation Model* dari Hugging Face ke dalam Google Colab, kita
 5. Pilih tipe *Permissions* **Read** (di bagian atas).
 6. Pada kolom **Token name**, ketik nama token bebas, misalnya: `praktikum-colab`.
 7. Gulir ke bawah dan klik **Create token**.
-8. Ketika jendela **Save your Access Token** muncul (berisi kode berawalan `hf_...`), klik tombol **Copy** dan simpan kode tersebut di *Notepad* pribadi Anda karena kode ini hanya ditampilkan satu kali, kemudian klik **Done**.
+8. Ketika jendela **Save your Access Token** muncul (berisi kode berawalan `hf_...`), klik tombol **Copy** dan simpan kode tersebut di *Notepad*/*Catatan* pribadi Anda karena kode ini hanya ditampilkan satu kali, kemudian klik **Done**.
 
 ### Tahap B: Cara Mencari dan Menyalin ID Model di Hugging Face
 1. Klik menu **Models** di bagian atas halaman Hugging Face (https://huggingface.co/models).
