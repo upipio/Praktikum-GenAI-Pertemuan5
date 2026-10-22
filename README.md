@@ -1,7 +1,5 @@
 # Modul Praktikum Pertemuan 5: Working with Foundation Model
-
-**Mata Kuliah:** Pemanfaatan AI Generative untuk Pengembangan Aplikasi  
-**Kode Mata Kuliah / SKS:** KK140114_22 / 4 SKS  
+  
 **Topik:** Pengenalan Foundation Model (Menjalankan Foundation Model di Google Colab)
 
 ---
@@ -25,7 +23,7 @@ Pengenalan Foundation Model: Menjalankan Foundation Model di Google Colab
 ---
 
 ## 4. Daftar File pada Repository Ini
-1. `Praktikum5_Menjalankan_Foundation_Model_Qwen.ipynb` : Notebook panduan praktikum di kelas menggunakan model **Qwen**.
+1. `Praktikum3_Menjalankan_Foundation_Model_Qwen.ipynb` : Notebook panduan praktikum di kelas menggunakan model **Qwen**.
 2. `Tugas_Pertemuan_5_Menjalankan_Foundation_Model_Gamma.ipynb` : Template notebook kosong yang wajib diunduh dan dilengkapi oleh mahasiswa untuk tugas mandiri menggunakan model **Gamma (Gemma)**.
 
 ---
@@ -54,7 +52,7 @@ Untuk memanggil *Foundation Model* dari Hugging Face ke dalam Google Colab, kita
    - Apabila akun Anda terkendala persetujuan lisensi, Anda dapat menggunakan ID model alternatif yang terbuka langsung tanpa lisensi tambahan, yaitu: **`unsloth/gemma-2-2b-it`** (https://huggingface.co/unsloth/gemma-2-2b-it).
 
 ### Tahap C: Konfigurasi GPU & Eksekusi Praktikum di Google Colab
-1. Unduh file `Praktikum5_Menjalankan_Foundation_Model_Qwen.ipynb` dari repositori ini, lalu buka di https://colab.research.google.com (**File -> Upload notebook**).
+1. Unduh file `Praktikum3_Menjalankan_Foundation_Model_Qwen.ipynb` dari repositori ini, lalu buka di https://colab.research.google.com (**File -> Upload notebook**).
 2. Ubah konfigurasi *runtime* ke GPU:
    - Klik menu **Runtime** di bagian atas -> pilih **Change runtime type**.
    - Pastikan **Runtime type** adalah `Python 3`.
@@ -88,10 +86,10 @@ Mahasiswa wajib mengumpulkan **2 (dua) file** secara langsung ke LMS Layar sebel
 1. **File Notebook Tugas (`.ipynb`):**
    - Pastikan seluruh sel kode pada file tugas telah dijalankan (*Run*) sehingga seluruh *output* teks tampil lengkap di bawah setiap sel kode.
    - Unduh dari Google Colab melalui menu **File -> Download -> Download .ipynb**.
-   - Format nama file: `Tugas5_[NPM]_[NamaLengkap].ipynb`
+   - Format nama file: `Tugas3_[NPM]_[NamaLengkap].ipynb`
 2. **File Laporan Praktikum (`.pdf`):**
    - Berisi identitas mahasiswa (Nama dan NPM), *screenshot* bukti hasil eksekusi praktikum (Qwen) dan tugas (Gamma), tabel pengamatan jawaban kedua model pada kasus Softyum, serta kesimpulan.
-   - Format nama file: `LaporanP5_[NPM]_[NamaLengkap].pdf`
+   - Format nama file: `LaporanT3_[NPM]_[NamaLengkap].pdf`
 
 ---
 
