@@ -1,4 +1,4 @@
-# Modul Praktikum Pertemuan 5: Working with Foundation Model
+# Modul Praktikum Pertemuan 5: Working with Foundation Model Part 1
   
 **Topik:** Pengenalan Foundation Model (Menjalankan Foundation Model di Google Colab)
 
